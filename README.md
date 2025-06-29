@@ -1,6 +1,5 @@
 UAS KECERDASAN BUATAN
 SITI RAHMAWATI (2306146)
-FADHLIAN NUR FAJRI (2306147)
 
 ❤️ Heart Disease Prediction using Machine Learning
 Dataset sumber: Kaggle - Heart Disease Data
